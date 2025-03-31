@@ -1,7 +1,7 @@
-# 🛡️ End-to-End Encrypted Chat App (FastAPI + RSA + AES)
+# 🛡️ End-to-End Encryption using fastapi  (FastAPI + RSA + AES)
 
 ## 📌 Overview
-This project is a **secure real-time chat application** that ensures privacy using **End-to-End Encryption (E2EE)**.  
+this project is the demonstration of the end to ens encryption using fastapi 
 It uses **RSA for key exchange** and **AES for message encryption**, ensuring only the intended recipient can decrypt messages.
 
 ## 🚀 Tech Stack
