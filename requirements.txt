@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+tortoise-orm
+cryptography
+websockets
+pyjwt
