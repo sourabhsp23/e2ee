@@ -23,7 +23,7 @@ It uses **RSA for key exchange** and **AES for message encryption**, ensuring on
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/encrypted-chat.git
+git clone https://github.com/sourabhsp23/e2ee
 ```
 
 ### install dependencies
